@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [hpizza]
+    WITH PASSWORD = N'p|UalqR1k65W&xkheThik1qnmsFT7_&#$!~<fsnLldht>eif', SID = 0xD3EBFE6F065BAF4FA3F6AEC0181ADC57, DEFAULT_DATABASE = [HungryPizza], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
